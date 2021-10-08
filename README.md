@@ -8,7 +8,7 @@ Requires Magento 2 in any version.
 
 ## Installation
 
-Add the ```log.php``` file in  the```app/code``` directory.
+Add the ```Log.php``` file in  the```app/code``` directory.
 
 ## Description
 
