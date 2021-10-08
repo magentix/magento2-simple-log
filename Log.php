@@ -90,7 +90,7 @@ final class Log
             self::WARN   => 'Warning',
             self::NOTICE => 'Notice',
             self::INFO   => 'Info',
-            self::DEBUG  => 'Debug'
+            self::DEBUG  => 'Debug',
         ];
     }
 }
